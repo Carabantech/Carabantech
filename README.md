@@ -15,7 +15,7 @@ Soy un apasionado de la tecnología con más de 15 años de experiencia transfor
 
 ### 🌐 Portfolio
 
-🚀 Podés ver mis proyectos, experiencia y enfoque técnico en mi portfolio online:
+🚀 Podés ver mis proyectos, experiencia y enfoque profesional en mi portfolio online:
 
 <p align="center">
   <a href="https://portfoliocarabantech.netlify.app/" target="_blank">
