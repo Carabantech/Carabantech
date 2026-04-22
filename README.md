@@ -17,8 +17,17 @@ Soy un apasionado de la tecnología con más de 15 años de experiencia transfor
 
 🚀 Podés ver mis proyectos, experiencia y enfoque técnico en mi portfolio online:
 
-👉 **https://portfoliocarabantech.netlify.app/**
+<p align="center">
+  <a href="https://portfoliocarabantech.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/VER_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://portfoliocarabantech.netlify.app/" target="_blank">
+    <img src="https://api.microlink.io/?url=https://portfoliocarabantech.netlify.app/&screenshot=true&meta=false&embed=screenshot.url" alt="Preview Portfolio" width="800"/>
+  </a>
+</p>
 ---
 
 ### 🛠️ Stack Tecnológico
