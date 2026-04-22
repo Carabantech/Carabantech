@@ -1,17 +1,42 @@
 # Hola, soy Sebastian Mauricio 👋
 
-### IT Manager Senior | DevOps | Estrategia Tecnológica & Cloud Architecture
+### IT Manager Senior | Estrategia Tecnológica | Cloud & Infraestructura | Liderazgo IT
 
-Soy un apasionado de la tecnología con más de 15 años de experiencia transformando infraestructuras críticas en soluciones eficientes y seguras. Actualmente lidero operaciones tecnológicas regionales para **Wakapi / CME**, coordinando equipos en Argentina, EE. UU. y Medio Oriente.
+Profesional con más de 15 años de experiencia liderando áreas de tecnología, infraestructura crítica y operaciones IT en entornos corporativos de alta exigencia. Especializado en alinear la tecnología con los objetivos del negocio, optimizando costos, mitigando riesgos y asegurando continuidad operativa.
+
+Actualmente lidero la operación tecnológica regional en **Wakapi / CME**, coordinando equipos y proyectos en **Argentina, EE. UU. y Medio Oriente**.
 
 ---
 
-### 🚀 Sobre mí
+## 🎯 Enfoque Ejecutivo
 
-- 🌍 **Ubicación:** Mendoza, Argentina.
-- 💼 **Rol Actual:** IT Manager Senior LATAM.
-- 🎯 **Enfoque:** Implementación de modelos Zero Trust, optimización CI/CD y adopción estratégica de IA.
-- 🎓 **Formación:** Técnico Superior en Admin. de Nuevas Tecnologías (Fundación Universitas).
+- Definición e implementación de **estrategias tecnológicas alineadas al negocio**
+- Diseño de arquitecturas **cloud híbridas y escalables**
+- Implementación de modelos de seguridad **Zero Trust**
+- Optimización de costos (FinOps) y eficiencia operativa
+- Gestión de equipos IT distribuidos y operación **24x7**
+- Automatización de procesos y mejora continua (DevOps)
+
+---
+
+## 📊 Impacto en Negocio
+
+- 🛡️ **Reducción del 80% en incidentes operativos** mediante rediseño de arquitectura de seguridad
+- ⚙️ **Mejora del 60% en tiempos de despliegue** implementando pipelines CI/CD y automatización
+- 💰 **Optimización de costos IT** a través de migración estratégica a cloud y estandarización
+- 📈 **Alta disponibilidad operativa**, garantizando continuidad en entornos críticos
+
+---
+
+## 🏢 Experiencia y Liderazgo
+
+- Dirección de operaciones IT a nivel regional (LATAM / EE. UU. / Medio Oriente)
+- Coordinación de equipos multidisciplinarios distribuidos
+- Gestión de proveedores tecnológicos y toma de decisiones estratégicas
+- Diseño y evolución de infraestructura de data center y redes de alta disponibilidad
+- Implementación de políticas de seguridad y compliance corporativo
+
+---
 
 ### 🌐 Portfolio
 
@@ -28,42 +53,38 @@ Soy un apasionado de la tecnología con más de 15 años de experiencia transfor
     <img src="https://api.microlink.io/?url=https://portfoliocarabantech.netlify.app/&screenshot=true&meta=false&embed=screenshot.url" alt="Preview Portfolio" width="400"/>
   </a>
 </p>
----
-
-### 🛠️ Stack Tecnológico
-
-| Área | Tecnologías |
-| :--- | :--- |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) |
-| **Infraestructura** | ![Networking](https://img.shields.io/badge/Networking-Cisco-blue?style=flat-square) ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=microsoft&logoColor=white) ![Zero Trust](https://img.shields.io/badge/Security-Zero_Trust-red?style=flat-square) |
-| **Desarrollo** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Herramientas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Copilot](https://img.shields.io/badge/AI-Copilot-blueviolet?style=flat-square) |
 
 ---
 
-### 📈 Logros Clave en Gestión (KPIs)
+## 🚀 Iniciativas Destacadas
 
-- 🛡️ **Seguridad:** Reducción del **80%** en incidentes operativos mediante arquitectura **Zero Trust**.
-- ⚙️ **Eficiencia:** Mejora del **60%** en tiempos de despliegue mediante automatización de pipelines **CI/CD**.
-- 👥 **Liderazgo:** Gestión exitosa de soporte **24x7** con un **SLA del 100%**.
-- 💰 **Costos:** Optimización presupuestaria mediante estandarización y migración inteligente a la nube.
+- **GoComunidad**  
+  Plataforma digital enfocada en conectar profesionales y servicios locales, diseñada con enfoque en escalabilidad, seguridad y experiencia de usuario.
+
+- **Automatización & DevOps**  
+  Implementación de pipelines CI/CD, reducción de tiempos operativos y mejora en la calidad de entregas.
+
+- **Estrategia de Seguridad**  
+  Implementación de modelos Zero Trust y fortalecimiento de la postura de seguridad organizacional.
+
+- **Innovación con IA**  
+  Exploración e implementación de agentes inteligentes para automatización y mejora de procesos empresariales.
 
 ---
 
-###  proyectos Destacados
+## 🛠️ Capacidades Técnicas (Resumen)
 
-- 🌐 **GoComunidad:** Desarrollo y despliegue de plataforma utilizando Next.js, AWS y seguridad avanzada (reCAPTCHA Enterprise).
-- 🤖 **AI Agents:** Implementación de agentes inteligentes para gobernanza de datos y automatización de procesos corporativos.
-- 🏗️ **Infraestructura Bioclimática:** (Side Project) Integración de tecnologías sostenibles en proyectos de construcción civil.
+Cloud (AWS, Azure) · Arquitectura IT · Redes · Seguridad · DevOps · Automatización · CI/CD · Infraestructura · Data Center · Gestión IT
 
 ---
 
-### 📫 Conectemos
+## 📫 Conectemos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastian_Mauricio-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sebastian-mauricio-c-a6123635/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastian_Mauricio-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sebastian-mauricio-c-a6123635/)  
 [![Email](https://img.shields.io/badge/Email-carabante%40outlook.com-red?style=for-the-badge&logo=outlook)](mailto:carabante@outlook.com)
 
 ---
 
-### ⚡ GitHub Stats
+## ⚡ GitHub Stats
+
 ![Stats de Sebastian](https://github-readme-stats.vercel.app/api?username=Carabantech&show_icons=true&theme=tokyonight)
