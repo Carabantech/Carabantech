@@ -25,7 +25,7 @@ Soy un apasionado de la tecnología con más de 15 años de experiencia transfor
 
 <p align="center">
   <a href="https://portfoliocarabantech.netlify.app/" target="_blank">
-    <img src="https://api.microlink.io/?url=https://portfoliocarabantech.netlify.app/&screenshot=true&meta=false&embed=screenshot.url" alt="Preview Portfolio" width="800"/>
+    <img src="https://api.microlink.io/?url=https://portfoliocarabantech.netlify.app/&screenshot=true&meta=false&embed=screenshot.url" alt="Preview Portfolio" width="400"/>
   </a>
 </p>
 ---
