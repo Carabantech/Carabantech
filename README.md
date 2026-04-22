@@ -16,6 +16,7 @@ Actualmente lidero la operación tecnológica regional en **Wakapi / CME**, coor
 - Optimización de costos (FinOps) y eficiencia operativa
 - Gestión de equipos IT distribuidos y operación **24x7**
 - Automatización de procesos y mejora continua (DevOps)
+- Experiencia en presupuestos, ROI y toma de decisiones tecnológicas
 
 ---
 
