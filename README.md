@@ -13,6 +13,12 @@ Soy un apasionado de la tecnología con más de 15 años de experiencia transfor
 - 🎯 **Enfoque:** Implementación de modelos Zero Trust, optimización CI/CD y adopción estratégica de IA.
 - 🎓 **Formación:** Técnico Superior en Admin. de Nuevas Tecnologías (Fundación Universitas).
 
+### 🌐 Portfolio
+
+🚀 Podés ver mis proyectos, experiencia y enfoque técnico en mi portfolio online:
+
+👉 **https://portfoliocarabantech.netlify.app/**
+
 ---
 
 ### 🛠️ Stack Tecnológico
